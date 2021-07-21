@@ -4,6 +4,7 @@
 
 ```
 git clone https://github.com/rulianajarno/rulimovieapp.git
+abrir terminal do visual studio
 npm install
 npm start
 ```
