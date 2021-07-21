@@ -1,6 +1,6 @@
 # React Movie rmdb
 
-[Link to App](http://rulimoviesforcubos.sh)
+[Link to App](rulimovieappforcubos.surge.sh)
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@
 ### Como carregar o aplicativo
 
 ```
-git clone https://github.com/oliver-gomes/react-movie.git
+git clone https://github.com/rulianajarno/rulimovieapp.git
 npm install
 npm start
 ```
