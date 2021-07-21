@@ -1,0 +1,29 @@
+.rmdb-header {
+  width: 100%;
+  height: auto;
+  background: #116193;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+.rmdb-header-content {
+  max-width: 1280px;
+  height: auto;
+  margin: 0 auto;
+  box-sizing: border-box;
+  overflow: hidden;
+  text-align: center;
+  font-family: "Abel", Lato;
+  color: #00e8e4;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+@media screen and (max-width: 500px) {
+  .rmdb-header-content {
+    max-width: 1280px;
+    min-height: 0px;
+  }
+}
