@@ -1,13 +1,5 @@
 # React Movie rmdb
 
-[Link to App](rulimovieappforcubos.surge.sh)
-
-## Table of Contents
-
-- [How to Load the App](#comocarregaroaplicativo)
-- [About the App](#sobre)
-- [How to Use the App](#como-utilizar-o-app)
-
 ### Como carregar o aplicativo
 
 ```
